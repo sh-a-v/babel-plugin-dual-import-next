@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-dual-import-preload-next",
+  "name": "babel-plugin-dual-import-next",
   "version": "1.0.0",
   "description": "Fork https://github.com/faceyspacey/babel-plugin-dual-import",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sh-a-v/babel-plugin-dual-import-preload-next.git"
+    "url": "git+https://github.com/sh-a-v/babel-plugin-dual-import-next.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sh-a-v/babel-plugin-dual-import-preload-next/issues"
+    "url": "https://github.com/sh-a-v/babel-plugin-dual-import-next/issues"
   },
-  "homepage": "https://github.com/sh-a-v/babel-plugin-dual-import-preload-next#readme"
+  "homepage": "https://github.com/sh-a-v/babel-plugin-dual-import-next#readme"
 }
